@@ -2,6 +2,7 @@
 - 약수의 갯수가 짝수인 것 = 제곱수
 
 - 제곱수 구하는 부분
+
 '
 int square(int a,int b){
     int i,count=0;
