@@ -3,7 +3,7 @@
 
 - 제곱수 구하는 부분
 
-'
+```C
 int square(int a,int b){
     int i,count=0;
     for(i= 1;i<1000000;i++){
@@ -20,4 +20,4 @@ int square(int a,int b){
         }
     }
 }
-'
+```
