@@ -19,5 +19,6 @@ int main(void){
     if(flag==0)
         printf("No positions");
     printf("AAAQQQQQ");
+    printf("AAAAAAAA");
     return 0;
 }
